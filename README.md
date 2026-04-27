@@ -26,23 +26,35 @@ It simulates a real-world analytics pipeline, combining data engineering, analys
 
 ## 🏗 Project Architecture
 Operational-Bottleneck-Root-Cause-Analysis/
+
 │
 ├── data/
+
 │ ├── raw/
+
 │ └── processed/
+
 │
+
 ├── notebooks/
+
 │ └── delay_prediction.ipynb
 │
 ├── sql/
+
 │ ├── 01_table_creation.sql
+
 │ ├── 02_views.sql
+
 │ └── 03_analysis.sql
+
 │
 ├── powerbi/
+
 │ └── dashboard.pbix
 │
 ├── reports/
+
 ├── README.md
 
 ---
