@@ -62,41 +62,24 @@ Built to simulate a real-world operations intelligence system — from raw data 
 
 ## Project Architecture
 
+```
 Operational-Bottleneck-Root-Cause-Analysis/
-
 │
 ├── data/
-
-│ ├── raw/
-
-│ └── processed/
-
-│
-
+│   ├── raw/
+│   └── processed/
 ├── notebooks/
-
-│ └── delay_prediction.ipynb
-│
+│   └── delay_prediction.ipynb
 ├── sql/
-
-│ ├── 01_table_creation.sql
-
-│ ├── 02_views.sql
-
-│ └── 03_analysis.sql
-
-│
+│   ├── 01_table_creation.sql
+│   ├── 02_views.sql
+│   └── 03_analysis.sql
 ├── powerbi/
-
-│ └── dashboard.pbix
-│
-├── reports/
-
-├── README.md
-
----
-
----
+│   └── dashboard.pbix
+├── screenshots/
+├── generate_dataset.py
+└── README.md
+```
 
 ## Dataset
 
