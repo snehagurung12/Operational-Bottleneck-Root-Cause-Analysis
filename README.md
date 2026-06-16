@@ -34,6 +34,21 @@ Built to simulate a real-world operations intelligence system — from raw data 
 
 ---
 
+## Dashboard Screenshots
+
+### Executive Overview
+<img src="screenshots/overview.png" width="600"/>
+
+### Bottleneck Explorer
+<img src="screenshots/bottleneck_explorer.png" width="600"/>
+
+### Root Cause Analysis
+<img src="screenshots/root_cause_analysis.png" width="600"/>
+
+### Cloud Pipeline
+<img src="screenshots/cloud_pipeline.png" width="600"/>
+
+
 ## Tech Stack
 
 | Layer | Tool | Purpose |
